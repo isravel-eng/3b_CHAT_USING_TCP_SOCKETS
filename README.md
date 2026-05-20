@@ -89,6 +89,9 @@ Client: How are you?
 Server: Fine
 ```
 
+<img width="535" height="175" alt="image" src="https://github.com/user-attachments/assets/0f4b3913-0c9b-42cf-a7c9-4ea25d4663d9" />
+
+
 ### Client Side
 ```text
 Connected to server
@@ -97,6 +100,8 @@ Server: Hi
 Client: How are you?
 Server: Fine
 ```
+<img width="571" height="158" alt="image" src="https://github.com/user-attachments/assets/3c4cba00-d165-4322-ac9a-440b40a8a17e" />
+
 
 ## RESULT
 Thus, the Python program for creating Chat using TCP Socket Links was successfully executed.
